@@ -52,9 +52,9 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="vCX-l4-6oJ">
-                                <rect key="frame" x="74" y="351" width="174" height="30"/>
+                                <rect key="frame" x="77" y="351" width="168" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Dismiss and Show &quot;Data&quot;"/>
+                                <state key="normal" title="Dismiss and Show 'Data'"/>
                                 <connections>
                                     <action selector="sendData:" destination="jcV-nj-wXg" eventType="touchUpInside" id="fDk-4G-gui"/>
                                 </connections>
